@@ -5,7 +5,7 @@ Contexte :
 Vous formez une équipe Devsecops chez un acteur leader en e-commerce en France. Vous êtes résponsables de l'accompagnement 
 de l'ensemble des équipes de développement et métiers dans la diffusion d'une culture Devsecops et la mise en place d'une Pipeline CI/CD
 afin d'améliorer le delivery. 
-
+fghzehfguim
 Installation : 
 
 1 - Connectez-vous à votre compte github
